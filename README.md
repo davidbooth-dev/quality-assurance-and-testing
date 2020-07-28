@@ -1,2 +1,2 @@
-# quality-assurance-and-testing
-Lear Javascript Assertions
+# Quality Assurance and Testing with Chai
+## Learn Javascript Assertions
